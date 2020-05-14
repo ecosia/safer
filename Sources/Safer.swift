@@ -1,6 +1,6 @@
 import Foundation
 
-final class Safer {
+public final class Safer {
     public init() {
         
     }
