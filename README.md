@@ -1,3 +1,3 @@
 # Safer
 
-A description of this package.
+Secure and Private browsing indicator library
